@@ -20,6 +20,6 @@ The project is built in two layers:
 >
 > 📄 The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/SQLChurn3.sql)
 >
-> 📄 Targeted SQL queries regarding various business questions can be found [here](link-to-product-file)
+> 📄 Targeted SQL queries regarding various business questions can be found [here](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/SQLChurn2.sql)
 
 
