@@ -14,6 +14,14 @@ The project is built in two layers:
 
 2. **Power BI Dashboard** — A multi-page interactive dashboard that translates the validated SQL findings into a stakeholder-facing report, using DAX measures to replicate the underlying SQL logic (current MRR, churn rate, ARPU) so the numbers stay consistent between both layers.
 
-> 📂 The original dataset can be found here: [Dataset Source](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)
->>  📊 The interactive dashboard can be downloaded here: [`RavenStack_Dashboard.pbix`](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/Power%20BI%20Churn%20analysis.pbix)
->>The SQL queries utilized to inspect and perform quality checks can be found [here](link-to-quality-checks-file).
+> 📁 The original dataset can be found here: [Dataset Source]([your-kaggle-url](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset))
+>
+> 📊 The interactive dashboard can be downloaded here: [RavenStack_Dashboard.pbix]([link-to-pbix-file](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/Power%20BI%20Churn%20analysis.pbix))
+>
+> 📄 The SQL queries utilized to inspect and perform quality checks can be found [here](link-to-quality-checks-file)
+>
+> 📄 The SQL queries utilized to answer product-related business questions can be found [here](link-to-product-file)
+>
+> 📄 The SQL queries utilized to answer customer-related business questions can be found [here](link-to-customer-file)
+>
+> 📄 The SQL queries utilized to answer sales-related business questions can be found [here](link-to-sales-file)
