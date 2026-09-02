@@ -15,4 +15,4 @@ The project is built in two layers:
 2. **Power BI Dashboard** — A multi-page interactive dashboard that translates the validated SQL findings into a stakeholder-facing report, using DAX measures to replicate the underlying SQL logic (current MRR, churn rate, ARPU) so the numbers stay consistent between both layers.
 
 > 📂 The original dataset can be found here: [Dataset Source](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)
->  📊 The interactive dashboard can be downloaded here: [`RavenStack_Dashboard.pbix`](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/Power%20BI%20Churn%20analysis.pbix)
+>>  📊 The interactive dashboard can be downloaded here: [`RavenStack_Dashboard.pbix`](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/Power%20BI%20Churn%20analysis.pbix)
