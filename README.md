@@ -16,3 +16,4 @@ The project is built in two layers:
 
 > 📂 The original dataset can be found here: [Dataset Source](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)
 >>  📊 The interactive dashboard can be downloaded here: [`RavenStack_Dashboard.pbix`](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/Power%20BI%20Churn%20analysis.pbix)
+The SQL queries utilized to inspect and perform quality checks can be found [here](link-to-quality-checks-file).
