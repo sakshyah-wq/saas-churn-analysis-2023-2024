@@ -50,3 +50,17 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Churn volume grew substantially over the analysis period. Cross-checked against the MRR dips identified in the [Revenue & Subscription Analysis](#revenue--subscription-analysis) section: only **June 2024** showed a churn spike matching a corresponding MRR dip — the other dip months (June 2023, September 2023, August 2024) are **not** explained by churn volume alone
 
 <img width="810" height="572" alt="image" src="https://github.com/user-attachments/assets/d8ec820e-5e24-4340-a173-3c8af4320544" />
+
+## Other Analysis
+
+- **Top 5 features — usage is evenly distributed, not top-heavy**  
+  The top 5 features (**6,536–6,686 uses**) are clustered within about 2% of each other. There's no single "hero" feature dominating usage — engagement is spread fairly evenly across the top features rather than being concentrated in one or two. This is a healthy sign for product stickiness, as users aren't relying on just one feature.
+
+- **High-priority tickets take the longest to resolve**  
+  The key finding is that **"High" priority tickets take the longest to resolve — even longer than "Low" priority tickets.** Only **"Urgent"** tickets receive meaningfully faster treatment.
+
+- **Feature engagement shows a weak but noticeable relationship with churn**  
+  Customers with **High feature engagement have the lowest churn rate (~7.8%)**, compared with approximately **10% for Low and Medium engagement**. However, **No Usage customers show a slightly lower churn rate (~9%)**, suggesting that feature engagement alone is not a strong enough predictor of churn and that other factors may be influencing customer retention.
+
+<img width="495" height="347" alt="image" src="https://github.com/user-attachments/assets/ec379933-6138-4954-a285-2a56a268a15a" />
+
