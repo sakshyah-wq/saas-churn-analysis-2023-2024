@@ -38,3 +38,15 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 <img width="802" height="587" alt="image" src="https://github.com/user-attachments/assets/e499876d-3328-41f1-815a-74e3701f1cca" />
 
+## Revenue and Subscription Analysis
+- **MRR grew from ~$4,700 (Jan 2023) to $1.33M (Dec 2024)**, reflecting strong, consistent revenue growth over the two-year period.
+- New subscription volume grew **steadily every month** (137 → 1,074), ruling out reduced signups as the cause of isolated month-over-month MRR dips observed in **June 2023, September 2023, June 2024, and August 2024**. Overall revenue growth remained strong throughout the period.
+- These MRR dips were **not explained by signup volume** — cross-checked against churn volume in the [Churn Analysis](#churn--retention-analysis) section.
+
+## Churn & Retention Analysis
+- **Overall churn rate: 22%** across all accounts
+- **Industry is the strongest churn signal identified in this analysis** — DevTools accounts churn at **31%**, nearly double Cybersecurity's **16%**, across comparably sized account groups (79–113 accounts each)
+- **Plan tier shows no meaningful effect on churn** — Basic, Pro, and Enterprise all sit within a narrow 21.9–22.1% range, ruling this out as a retention lever
+- Churn volume grew substantially over the analysis period. Cross-checked against the MRR dips identified in the [Revenue & Subscription Analysis](#revenue--subscription-analysis) section: only **June 2024** showed a churn spike matching a corresponding MRR dip — the other dip months (June 2023, September 2023, August 2024) are **not** explained by churn volume alone
+
+<img width="810" height="572" alt="image" src="https://github.com/user-attachments/assets/d8ec820e-5e24-4340-a173-3c8af4320544" />
