@@ -29,4 +29,8 @@ RavenStack's database consists of five tables: `accounts`, `subscriptions`, `chu
 
 <img width="1142" height="755" alt="image" src="https://github.com/user-attachments/assets/0bd15f28-ffb5-465d-b246-71605812d167" />
 
+## Executive Summary
+
+## Overview of Findings
+Revenue is growing strongly — current MRR stands at **$1.33M** (ARR: **$16M**), with ARPU at **$3,423** per account. But that growth sits alongside a **22% overall churn rate**, and the risk isn't evenly spread: **DevTools accounts churn at nearly double the rate of the most stable industries (31% vs. 16%)**, while plan tier shows no meaningful effect on retention.
 
