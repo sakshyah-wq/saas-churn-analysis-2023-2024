@@ -23,3 +23,10 @@ The project is built in two layers:
 > 📄 Targeted SQL queries regarding various business questions can be found [here](https://github.com/sakshyah-wq/saas-churn-analysis-2023-2024/blob/main/SQLChurn2.sql)
 
 
+## 🗂️ Data Structure 
+
+RavenStack's database consists of five tables: `accounts`, `subscriptions`, `churn_events`, `feature_usage`, and `support_tickets`.
+
+<img width="1142" height="755" alt="image" src="https://github.com/user-attachments/assets/0bd15f28-ffb5-465d-b246-71605812d167" />
+
+
