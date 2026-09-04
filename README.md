@@ -64,3 +64,10 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 <img width="495" height="347" alt="image" src="https://github.com/user-attachments/assets/ec379933-6138-4954-a285-2a56a268a15a" />
 
+## Recommendations
+
+- **Investigate DevTools churn before treating it as a pricing problem**
+    DevTools customers are canceling at a rate of 31%, compared to just 16% for our most loyal industries — almost double. Since retention is roughly the same across all pricing plans, the issue likely isn't about cost. Before making any changes to pricing or plans company-wide, talk directly to DevTools customers who have already left — through a short survey sent right after cancellation or a quick follow-up call/interview. The goal is to find out, in their own words, why they left, so we're fixing the real problem instead of guessing.
+
+- **Re-check how "High" priority support tickets are handled**
+  High-priority tickets currently take longer to resolve (36.96 hrs) than even Low-priority tickets (36.35 hrs) — only "Urgent" tickets are resolved noticeably faster. This suggests the priority label isn't being reflected in how tickets are actually handled. It's worth checking with the support team whether "High" tickets are being properly escalated and staffed, since customers expect faster help when they mark something as high priority.
