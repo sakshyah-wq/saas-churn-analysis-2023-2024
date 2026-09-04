@@ -71,3 +71,5 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 - **Re-check how "High" priority support tickets are handled**
   High-priority tickets currently take longer to resolve (36.96 hrs) than even Low-priority tickets (36.35 hrs) — only "Urgent" tickets are resolved noticeably faster. This suggests the priority label isn't being reflected in how tickets are actually handled. It's worth checking with the support team whether "High" tickets are being properly escalated and staffed, since customers expect faster help when they mark something as high priority.
+
+- **84% on non-trial:** The vast majority of the customer base is already paying, not testing. Combined with a high ARPU ($3,423), this tells us churn isn't coming from trial users bouncing off before converting — it's happening among customers who are already committed and paying.
